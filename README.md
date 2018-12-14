@@ -6,6 +6,10 @@ Over two billion dollars have been raised using the massively successful crowdfu
 
 Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success. We have organized and analyzed a database of four thousand past projects in order to uncover any hidden trends.
 
+## Concepts used
+
+Conditional Formatting, Pivot Table, Charts(Line, Stacked Column & Bar), Formula(Sum, Countifs) and more.
+
 ## Instructions
 
 ![Kickstarter Table](Images/FullTable.PNG)
